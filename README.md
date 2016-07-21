@@ -1,2 +1,2 @@
 # visualg
-Programas VisualG
+Exercícios resolvidos utilizando o VisualG 2.0.
